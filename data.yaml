@@ -6,8 +6,8 @@ nc: 1
 names: ['milk-jug']
 
 roboflow:
-  workspace: aditya-raj-kmypu
-  project: milk-jug
-  version: 4
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/aditya-raj-kmypu/milk-jug/dataset/4
+  workspace: rb-flw-lcxw9
+  project: planet-green
+  version: 3
+  license: Private
+  url: https://app.roboflow.com/rb-flw-lcxw9/planet-green/3
